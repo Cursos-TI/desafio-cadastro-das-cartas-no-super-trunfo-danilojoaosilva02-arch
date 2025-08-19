@@ -17,6 +17,7 @@ int main() {
     int pontos_turisticos2;
 
 //cadastro de cartas
+
     printf("Cadastro de carta 1\n");
 
     printf("Digite o Estado:\n");
